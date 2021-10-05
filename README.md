@@ -1,15 +1,4 @@
 
-●  	What did you like about this project? <br>
-It is more like an exercise rather than an assessment.
-
-●  	What did you struggle with in this project? <br>
-Understanding the questions especially question 4
-
-●  	What would make your experience with this assessment better? <br>
-I am glad to experience another variation of the assessment.
-
------------------------------------------------------------------------------------------------------------------------
-
 2a) What are the Top 25 schools (.edu domains)?
 
 SELECT email_domain AS Top_25_Schools, COUNT(*)
